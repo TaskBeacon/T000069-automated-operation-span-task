@@ -1,0 +1,8 @@
+task_id: T000069
+generated_at: 2026-07-12
+selection_policy: automated OSPAN protocol plus methodological and construct-validity sources
+citation_threshold: 100
+papers:
+  - {id: UNSWORTH2005, title: An automated version of the Operation Span task, year: 2005, journal: Behavior Research Methods, doi_or_url: "https://doi.org/10.3758/BF03192720", citation_count: 2800, open_access: true, is_high_impact: true, used_for: complete automated protocol}
+  - {id: CONWAY2005, title: Working memory span tasks a methodological review and users guide, year: 2005, journal: Psychonomic Bulletin and Review, doi_or_url: "https://doi.org/10.3758/BF03196772", citation_count: 6000, open_access: true, is_high_impact: true, used_for: administration and scoring}
+  - {id: ENGLE1999, title: Working memory short-term memory and general fluid intelligence, year: 1999, journal: Journal of Experimental Psychology General, doi_or_url: "https://doi.org/10.1037/0096-3445.128.3.309", citation_count: 4900, open_access: true, is_high_impact: true, used_for: construct validity}

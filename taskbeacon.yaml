@@ -1,0 +1,12 @@
+id: T000069
+slug: automated-operation-span-task
+title: Automated Operation Span Task
+acquisition: behavior
+variant: automated-ospan
+cognitive_domain: [working-memory, complex-span, executive-attention]
+maturity: draft
+version: {release_tag: v0.1.0}
+contracts: {taps: v0.2.0}
+runtime: {profile: psyflow}
+evidence: [https://doi.org/10.3758/BF03192720, https://doi.org/10.3758/BF03196772, https://doi.org/10.1037/0096-3445.128.3.309]
+maintainer: [TaskBeacon]
